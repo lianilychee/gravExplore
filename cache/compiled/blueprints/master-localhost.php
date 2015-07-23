@@ -1,7 +1,7 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\Config',
-    'checksum' => '916d28faccd9855e22582d2fffb5669e:57852e88b938156841a5541adb9adda9',
+    'checksum' => 'c9ceaaf51ba05eae94a656123923a0af:57852e88b938156841a5541adb9adda9',
     'files' => [
         'user/plugins' => [
             'plugins/problems' => [
